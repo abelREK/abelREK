@@ -26,7 +26,7 @@ I'm an Embedded Engineer who's passionate about pushing the boundaries of hardwa
 
 ### 🚀 Projects:
 
-- **Rekovar Neomonki **: Cutting edge Neontal Monitoring Device
+- **Rekovar Neomonki**: Cutting edge Neontal Monitoring Device
 
 ### 📈 GitHub Stats:
 
